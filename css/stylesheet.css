@@ -3,6 +3,10 @@
 @media (max-width : 1078px ){
 }
 
+.PTK {
+	padding-bottom: 10vw;
+}
+
 h5 {
 	color: white;
 	align-content: center;
@@ -310,4 +314,7 @@ h3 {
 	width: 45%;
 	text-align: left;
 	float: right;
+}
+.CPT {
+	padding-bottom: 2vw;
 }
