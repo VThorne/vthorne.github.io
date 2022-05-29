@@ -4,7 +4,8 @@
 }
 
 .PTK {
-	padding-bottom: 10vw;
+	padding-top: 5vw;
+	padding-bottom: 5vw;
 }
 
 h5 {
@@ -50,6 +51,11 @@ h5 {
 	text-decoration: underline;
 	color: #FF0004;
 	text-decoration-style: solid;
+}
+
+.dns {
+	margin-top: 3vw;
+	margin-bottom: 4vw;
 }
 
 .blog-element img{
@@ -272,6 +278,7 @@ h3 {
 	padding: 1vw;
 	background-color: #1B1B1B;
 	text-align: -webkit-center;
+	text-align: center;
 }
 
 #endnote ul {
@@ -317,5 +324,8 @@ h3 {
 	float: right;
 }
 .CPT {
-	padding-bottom: 2vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+}
+.dns {
 }
